@@ -30,7 +30,7 @@ The source files are independent practice exercises rather than one application.
 
 ## Related repository
 
-For more advanced topics such as binary trees and dynamic programming, see [advanced-java-dsa](https://github.com/ayushpainuly1234-ui/advanced-java-dsa).
+For more advanced topics such as binary trees and dynamic programming, see [advanced-java-dsa](https://github.com/ujjwal-painuly/advanced-java-dsa).
 
 ## Notes
 
