@@ -35,3 +35,9 @@ For more advanced topics such as binary trees and dynamic programming, see [adva
 ## Notes
 
 This repository records learning progress. Problem names and file names are kept as originally practised; clearer names and topic folders can be introduced gradually without changing the learning history.
+
+---
+
+## Maintainer
+
+**Ujjwal Painuly** · [GitHub](https://github.com/ujjwal-painuly) · [LinkedIn](https://www.linkedin.com/in/code-with-ujjwal-83828a352/) · [YouTube — Code With Ujjwal](https://www.youtube.com/@Ujjwalpainuly09)
